@@ -11,7 +11,6 @@ Homework and Final Project of `Statistical Learning and Deep Learning 2021 at NT
 
 * https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw1/r10741071_hw1.ipynb
 
-* https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw1/r10741071_hw1.html
 
 ### Grades
 * Programming : 100 / 100
@@ -23,8 +22,6 @@ Homework and Final Project of `Statistical Learning and Deep Learning 2021 at NT
 
 * https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw2/r10741071_hw2.ipynb
 
-* https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw2/r10741071_hw2.html
-
 ### Grades
 * Programming : 100 / 100
 
@@ -34,8 +31,6 @@ Homework and Final Project of `Statistical Learning and Deep Learning 2021 at NT
 ### Source Code
 
 * https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw3/r10741071_hw3.ipynb
-
-* https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw3/r10741071_hw3.html
 
 ### Grades
 * Programming : 109 / 110
@@ -47,7 +42,6 @@ Homework and Final Project of `Statistical Learning and Deep Learning 2021 at NT
 
 * https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw4/r10741071_hw4.ipynb
 
-* https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw4/r10741071_hw4.html
 
 ### Grades
 * Programming : 99 / 100
@@ -59,7 +53,6 @@ Homework and Final Project of `Statistical Learning and Deep Learning 2021 at NT
 
 * https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw5/r10741071_hw5.ipynb
 
-* https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/Homework/hw5/r10741071_hw5.html
 
 ### Grades
 * Programming : 100 / 100
