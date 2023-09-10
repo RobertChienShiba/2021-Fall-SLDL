@@ -58,7 +58,7 @@ Homework and Final Project of `Statistical Learning and Deep Learning 2021 at NT
 * Programming : 100 / 100
 
 ## Final Project
-### Task description ([PPT](https://github.com/RobertChienShiba/2021-Fall-SLDL/tree/main/FinalProject/烈焰龍珠簡報.pptx))
+### Task description ([PPT](https://docs.google.com/presentation/d/1i9yqVzlCWGzngusi8Ev9qe075RljgHUi38kUcjF1xds/edit?usp=sharing))
 
 ### Source Code
 
